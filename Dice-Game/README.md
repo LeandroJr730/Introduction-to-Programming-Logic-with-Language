@@ -17,5 +17,5 @@
 * Practiced using loops, conditionals, and event handling.
 * Strengthened understanding of user input and DOM interaction.
 
-(indexDiceGame.html)[indexDiceGame.html]
-(indexDiceGame.js)[indexDiceGame.js]
+[indexDiceGame.html](indexDiceGame.html)<br/>
+[indexDiceGame.js](indexDiceGame.js)
