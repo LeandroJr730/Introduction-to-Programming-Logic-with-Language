@@ -19,4 +19,4 @@
 
 [memoryGame.html](memoryGame.html)<br/>
 [memoryGame.js](memoryGame.js)<br/>
-[FINAL_PROJECT_WRITE_UP.pdf](FINAL_PROJECT_WRITE_UP.pdf)
+[FINAL_PROJECT_WRITE-UP.pdf](FINAL_PROJECT_WRITE-UP.pdf)
