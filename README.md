@@ -14,7 +14,7 @@
 
 ## 📂 About this Repository
 
-This repository contains some of my main JavaScript and HTML projects created during the CIS-125 Introduction to Programming Logic course at Southeastern Community College (SCC).  
+This repository contains some of my main JavaScript and HTML projects created during the CIS-125 Introduction to Programming Logic course at Southeastern Community College.  
 Even though I had prior knowledge of programming from self-study, this class helped strengthen my logical thinking, debugging, and structured coding practices through interactive assignments and small games.
 
 ---
