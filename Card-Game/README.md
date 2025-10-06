@@ -17,5 +17,5 @@
 * Implemented an efficient shuffle function (Fisher–Yates algorithm).
 * Demonstrated understanding of classes, loops, and data structures.
 
-[scriptCardGame.html](scriptCardGame.html)<br/>
+[indexCardGame.html](indexCardGame.html)<br/>
 [scriptCardGame.js](scriptCardGame.js)
