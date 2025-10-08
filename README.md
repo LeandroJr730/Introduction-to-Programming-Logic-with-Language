@@ -6,7 +6,7 @@
   </ul> 
 </div>
 
-### 📚 Course: CIS-125 — Introduction to Programming Logic with Language  
+### 📚 Course: CIS-125 — Introduction to Programming Logic with Language (Fall 2024)
 ### 👨‍🏫 Instructor: David Makuta  
 ### 👨‍🎓 Student: Leandro Augusto Romagnoli Junior — juninhoromagnoli11@gmail.com  
 
